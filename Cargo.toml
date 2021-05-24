@@ -8,7 +8,7 @@ homepage = "https://github.com/konanzheng/text-split"
 repository = "https://github.com/konanzheng/text-split"
 documentation = "README.md"
 description = "a big text file split util"
-keywords = ["big text", "split", "text util"]
+keywords = ["text", "split", "util"]
 categories = ["command-line-utilities"]
 
 [dependencies]
