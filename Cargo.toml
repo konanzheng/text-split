@@ -1,0 +1,15 @@
+[package]
+name = "text-split"
+version = "0.1.0"
+authors = ["郑瑞召 <ruizhaozheng@aliyun.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/konanzheng/text-split"
+repository = "https://github.com/konanzheng/text-split"
+documentation = "README.md"
+description = "a big text file split util"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+quicli = "0.4"
+structopt = "0.2"
